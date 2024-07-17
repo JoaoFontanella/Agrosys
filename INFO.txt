@@ -1,0 +1,12 @@
+COMO RODAR O CODIGO:
+Para rodar o projeto basta abrir a pasta "Projeto AgroSys" no Visual Studio Code, intalar a extenção chamada LiveServer e assim que finalizado a instalação, clicar no arquivo "index.html" e clicar no botão escrito LiveServer no canto inferior direito da tela.|
+
+OUTRA OPÇÃO PARA RODAR O CODIGO:
+Caso precide de uma maneira mais simples para rodar o projeto, deixo aqui o link para rodar ele online:
+https://stackblitz.com/edit/stackblitz-starters-jq4z5w?description=HTML/CSS/JS%20Starter&file=package.json&terminalHeight=10&title=Static%20Starter
+
+OBS:
+Não consegui estar deixando o projeto finalizado por conta de não conseguir fazer com que o banco de dados alasql funcionasse, então o projeto esta armazenando os dados no localstorage, tentei tudo que consegui procurando porem não deu tambem não achei muitos videos informativos sobre, acredito por ser uma extensão com menos uso.
+Então ficou faltando o Alasql, e suas funções de exportar BD, importar BD, e referenciar o endereço com o cliente, em cada listagem deixei um botão limpar para apagar todos usuários e endereços apenas como testes, pois senão ficaria inserindo e não teria como apagar.
+
+Obrigado pela oportunidade!
